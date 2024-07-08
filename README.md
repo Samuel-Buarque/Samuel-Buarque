@@ -43,6 +43,11 @@
   </li>
 </ul>
 
+  <li><strong>Project Name</strong>: <a href="https://task-list-beta-two.vercel.app/">Task List</a>
+    <ul>
+      <li><strong>Description</strong>: A simple task-list website where you can create to-do tasks, mark them as complete, or delete them. It uses local storage to save the tasks.</li>
+      <li><strong>Technologies</strong>: JavaScript, HTML, CSS</li>
+
 <h2>Get in Touch</h2>
 
 <p>Feel free to reach out if you have any questions or if you’re interested in collaborating on a project. You can contact me via <a href="mailto:samuelbuarquefilho@gmail.com">email</a> or connect with me on <a href="https://www.linkedin.com/in/samuel-buarque">LinkedIn</a>.</p>
