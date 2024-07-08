@@ -1,4 +1,4 @@
-<h1>Welcome to My GitHub Profile!</h1>
+<h1>Welcome!</h1>
 
 <p>Hello! I'm passionate about machine learning, data management, and Python. Here you can find projects showcasing my skills and interests in these areas, along with some work in JavaScript.</p>
 
