@@ -17,19 +17,17 @@
 <ul>
   <li><strong>Project Name</strong>: <a href="https://python-movie-recommender-rs5jppkdkufqixpnlqpg8k.streamlit.app/">Machine-learn Movie recommender</a>
     <ul>
-      <li><strong>Description</strong>: A brief overview of what this project is about and what technologies were used.</li>
-      <li><strong>Technologies</strong>: Python, scikit-learn, TensorFlow</li>
+      <li><strong>Description</strong>: A system designed to recommend movies to users based on their movie of choice.</li>
+      <li><strong>Technologies</strong>: Python, Pandas, NumPy, scikit-learn</li>
     </ul>
   </li>
 </ul>
 
-<h3>Data Management</h3>
-
 <ul>
-  <li><strong>Project Name</strong>: <a href="link">Mlp & K-means heart disease prediction</a>
+  <li><strong>Project Name</strong>: <a href="https://colab.research.google.com/github/Samuel-Buarque/Machine-_Learn_Python/blob/main/heart_disease_analise.ipynb">Mlp & K-means heart disease prediction</a>
     <ul>
-      <li><strong>Description</strong>: A brief overview of what this project is about and what technologies were used.</li>
-      <li><strong>Technologies</strong>: Python, SQL, Pandas</li>
+<li><strong>Description</strong>: A bot to predict whether a person has heart disease based on a real exam database retrieved from Kaggle. The bot uses an MLP architecture (supervised) and K-means (unsupervised).</li>   
+<li><strong>Technologies</strong>: Python, Pandas, Seaborn, Matplotlib, scikit-learn, TensorFlow, Keras</li>
     </ul>
   </li>
 </ul>
@@ -47,6 +45,6 @@
 
 <h2>Get in Touch</h2>
 
-<p>Feel free to reach out if you have any questions or if you’re interested in collaborating on a project. You can contact me via <a href="mailto:your-email@example.com">email</a> or connect with me on <a href="https://www.linkedin.com/in/your-profile">LinkedIn</a>.</p>
+<p>Feel free to reach out if you have any questions or if you’re interested in collaborating on a project. You can contact me via <a href="mailto:samuelbuarquefilho@gmail.com">email</a> or connect with me on <a href="https://www.linkedin.com/in/samuel-buarque">LinkedIn</a>.</p>
 
 <p>Thank you for visiting my profile!</p>
