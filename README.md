@@ -15,7 +15,7 @@
 <h3>Machine Learning</h3>
 
 <ul>
-  <li><strong>Project Name</strong>: <a href="[link](https://python-movie-recommender-rs5jppkdkufqixpnlqpg8k.streamlit.app/)">Machine-learn Movie recommender</a>
+  <li><strong>Project Name</strong>: <a href="https://python-movie-recommender-rs5jppkdkufqixpnlqpg8k.streamlit.app/">Machine-learn Movie recommender</a>
     <ul>
       <li><strong>Description</strong>: A brief overview of what this project is about and what technologies were used.</li>
       <li><strong>Technologies</strong>: Python, scikit-learn, TensorFlow</li>
