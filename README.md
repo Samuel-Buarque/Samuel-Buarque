@@ -15,7 +15,7 @@
 <h3>Machine Learning</h3>
 
 <ul>
-  <li><strong>Project Name</strong>: <a href="link">Project Title</a>
+  <li><strong>Project Name</strong>: <a href="[link](https://python-movie-recommender-rs5jppkdkufqixpnlqpg8k.streamlit.app/)">Machine-learn Movie recommender</a>
     <ul>
       <li><strong>Description</strong>: A brief overview of what this project is about and what technologies were used.</li>
       <li><strong>Technologies</strong>: Python, scikit-learn, TensorFlow</li>
@@ -26,7 +26,7 @@
 <h3>Data Management</h3>
 
 <ul>
-  <li><strong>Project Name</strong>: <a href="link">Project Title</a>
+  <li><strong>Project Name</strong>: <a href="link">Mlp & K-means heart disease prediction</a>
     <ul>
       <li><strong>Description</strong>: A brief overview of what this project is about and what technologies were used.</li>
       <li><strong>Technologies</strong>: Python, SQL, Pandas</li>
@@ -39,7 +39,7 @@
 <ul>
   <li><strong>Project Name</strong>: <a href="link">APOIÔMETRO</a>
     <ul>
-      <li><strong>Description</strong>: A platform for the inclusion of people with special needs in education. Used vanilla JavaScript for simplicity and practicality.</li>
+      <li><strong>Description</strong>: A platform for the inclusion of people with special needs in education. Used vanilla JavaScript mostly.</li>
       <li><strong>Technologies</strong>: JavaScript, HTML, CSS</li>
     </ul>
   </li>
