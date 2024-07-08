@@ -42,12 +42,13 @@
     </ul>
   </li>
 </ul>
-
-  <li><strong>Project Name</strong>: <a href="https://task-list-beta-two.vercel.app/">Task List</a>
     <ul>
+  <li><strong>Project Name</strong>: <a href="https://task-list-beta-two.vercel.app/">Task List</a>   
+  <ul>
       <li><strong>Description</strong>: A simple task-list website where you can create to-do tasks, mark them as complete, or delete them. It uses local storage to save the tasks.</li>
       <li><strong>Technologies</strong>: JavaScript, HTML, CSS</li>
     </ul>
+</ul>
 
 <h2>Get in Touch</h2>
 
