@@ -35,7 +35,7 @@
 <h3>JavaScript Projects</h3>
 
 <ul>
-  <li><strong>Project Name</strong>: <a href="link">APOIÔMETRO</a>
+  <li><strong>Project Name</strong>: <a href="https://samuel-buarque.github.io/Apoiometro/">APOIÔMETRO</a>
     <ul>
       <li><strong>Description</strong>: A platform for the inclusion of people with special needs in education. Used vanilla JavaScript mostly.</li>
       <li><strong>Technologies</strong>: JavaScript, HTML, CSS</li>
