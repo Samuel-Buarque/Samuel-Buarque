@@ -27,10 +27,21 @@
   <li><strong>Project Name</strong>: <a href="https://colab.research.google.com/github/Samuel-Buarque/Machine-_Learn_Python/blob/main/heart_disease_analise.ipynb">Mlp & K-means heart disease prediction</a>
     <ul>
 <li><strong>Description</strong>: A bot to predict whether a person has heart disease based on a real exam database retrieved from Kaggle. The bot uses an MLP architecture (supervised) and K-means (unsupervised).</li>   
-<li><strong>Technologies</strong>: Python, Pandas, Seaborn, Matplotlib, scikit-learn, TensorFlow, Keras</li>
+<li><strong>Technologies</strong>: Python, Pandas, Seaborn, Matplotlib, scikit-learn, TensorFlow, Keras, Jupyter Notebook</li>
     </ul>
   </li>
 </ul>
+
+<ul>
+  <li><strong>Project Name</strong>: <a href="https://colab.research.google.com/drive/1HwqH3SDpGefGGfopmtWhHmkIso16jR5l?usp=sharing">Lung Cancer Prediction Model</a>
+    <ul>
+<li><strong>Description</strong>: An MLP model developed(supervised) to predict lung cancer, enhancing diagnostic accuracy and
+supporting medical professionals in early detection.</li>   
+<li><strong>Technologies</strong>: Python, Pandas, NumPy, Matplotlib, Seaborn, scikit-learn, TensorFlow, Jupyter Notebook</li>
+    </ul>
+  </li>
+</ul>
+
 
 <h3>JavaScript Projects</h3>
 
